@@ -28,7 +28,7 @@
 - **Mô tả:** Cài đặt và so sánh hai thuật toán DDPG và TD3 trên bài toán điều khiển liên tục với các môi trường như HalfCheetah-v4 và Ant-v4. Đánh giá ảnh hưởng của total timesteps và hyperparameters.
 
 ## Chạy BT3 và BT4 trên kaggle
-- Đây là repo [cleanrl)](https://github.com/l1aF-2027/cleanrl) có sẵn các file cài đặt của các bài trong các folder tương ứng.
+- Đây là repo [cleanrl](https://github.com/l1aF-2027/cleanrl) có sẵn các file cài đặt của các bài trong các folder tương ứng.
 - Chạy lần lượt các command dưới đây
 ```bash
 !git clone https://github.com/l1aF-2027/cleanrl.git
